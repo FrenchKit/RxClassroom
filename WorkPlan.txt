@@ -1,0 +1,13 @@
+RxClassroom steps
+
+Step 1 - Prepare a simple application, one view with date / time labels, a VC and a VM
+
+Step 2 - Observables
+	Create first observables to set the date / time labels
+
+Step 3 - Notifications & timers
+	Make date and time autoupdating
+
+Step 4 - Chain operators
+	Provide initial values for date & time
+
