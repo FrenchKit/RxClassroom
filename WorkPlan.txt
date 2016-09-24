@@ -11,3 +11,16 @@ Step 3 - Notifications & timers
 Step 4 - Chain operators
 	Provide initial values for date & time
 
+Step 5 - Disposables & first service
+	Make sure we subscribe on viewWillAppear and unsubscribe on viewDidDisappear
+	Create the weather service protocol
+	Create a mock weather service
+
+Step 6 - Expose a tableview from the model
+	Model the tableview with cities weather
+	Export an observable to query multiple cities & return the table model
+	Subscribe to the observable from the VC to validate that it works
+
+Step 7 - Bind the actual tableview of cities
+
+Step 8 - Replace the mock with real network requests

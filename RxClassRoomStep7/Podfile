@@ -1,0 +1,7 @@
+use_frameworks!
+
+target :RxClassroom do
+	pod 'RxSwift'
+	pod 'RxCocoa'
+	pod 'Action'
+end
